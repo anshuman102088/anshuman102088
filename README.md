@@ -14,7 +14,7 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (add your link here)
+- LinkedIn: https://www.linkedin.com/in/anshuman-mudgal-641630394/
 
 
 <!--
