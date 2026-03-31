@@ -1,11 +1,8 @@
 ## Hi, I'm Anshuman 👋
 
 🎓 B.Tech Student at VIT Bhopal University
-
 💻 Interested in AI, ML, and Software Development
-
 📚 Currently learning programming and building projects
-
 🚀 Goals
 Improve coding skills
 Build real-world projects
